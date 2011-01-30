@@ -8,9 +8,9 @@ So far I have tested this in Firefox 3.
 Install
 -------
 
-Drag this link onto your bookmarks toolbar:
+Markdown haet bookmarklets. Get the bookmarklet [here][1].
 
-<a href='javascript:(function(){var base_url="http://www.songkick.com/",selected_text=window.getSelection().toString(),url=base_url+"concerts/new?headliners[0][name]="+selected_text;window.open(url);}());'>Add to Songkick</a>
+[1]: http://dwo.github.com/songkicklet
 
 Usage
 -----
