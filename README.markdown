@@ -3,7 +3,7 @@ Songkicklet
 
 This is a bookmarklet to make it convenient to add events to Songkick from anywhere on the web.
 
-So far I have tested this in Firefox 3.
+So far I have tested this in Firefox 3 and Chrome 8.
 
 Install
 -------
