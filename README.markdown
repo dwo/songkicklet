@@ -10,7 +10,7 @@ Install
 
 Markdown haet bookmarklets. Get the bookmarklet [here][1].
 
-[1]: http://dwo.github.com/songkicklet
+[1]: http://dwo.github.com/songkicklet/
 
 Usage
 -----
