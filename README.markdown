@@ -1,9 +1,10 @@
 Songkicklet
 ===========
 
-This is a bookmarklet to make it convenient to add events to Songkick from anywhere on the web.
+This is a bookmarklet to make it convenient to add events to Songkick from 
+anywhere you see an artist's name on the web.
 
-So far I have tested this in Firefox 3 and Chrome 8.
+So far I have seen this work in Firefox and Chrome.
 
 Install
 -------
@@ -15,9 +16,9 @@ Markdown haet bookmarklets. Get the bookmarklet [here][1].
 Usage
 -----
 
-* Highlight the name of an artist an artist on any web page
-* Click the songkicklet
-* You'll find yourself on an add concert form with the name pre-filled.
+* Highlight the name of an artist on any web page
+* Click the songkicklet in your bookmarks toolbar
+* You'll find yourself on a concert adding form with the name pre-filled.
 
 The future
 ----------
@@ -28,7 +29,7 @@ The future
 MIT License
 ===========
 
-(c) Robin Tweedie 2011
+(c) Robin Tweedie 2011-2012
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
