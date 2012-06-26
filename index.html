@@ -1,3 +1,3 @@
-<p>Drag this onto your bookmarks toolbar: <a href='javascript:(function(){var base_url="http://www.songkick.com/",selected_text=escape(window.getSelection().toString()),url=base_url+"concerts/new?event[headliner_names][0]="+selected_text;window.open(url);}());'>Songkicklet</a></p>
+<p>Drag this onto your bookmarks toolbar: <a href='javascript:(function(window){var base_url="http://www.songkick.com/",selected_text=encodeURIComponent(window.getSelection().toString()),url=base_url+"concerts/new?event[headliner_names][0]="+selected_text;window.open(url);}(window));'>Songkicklet</a></p>
 
 <p><a href='https://github.com/dwo/songkicklet'>Back to songkicklet on GitHub</a></p>
