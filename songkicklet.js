@@ -4,4 +4,4 @@
   selected_text = encodeURIComponent(window.getSelection().toString()),
   url = base_url + "concerts/new?event[headliner_names][0]=" + selected_text;
   window.open(url);
-}());
+}(window));
